@@ -1,5 +1,7 @@
 
-<a href='https://sqltune.io/'> SQLTune </a>
+<h2>
+<a target='_blank' href='https://sqltune.io/'> SQLTune </a>
+</h2>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
 style='font-size:18.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
